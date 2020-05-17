@@ -91,7 +91,7 @@ DATABASES = {
         'USER': 'dj_tutorial',
         'NAME': 'blogdb',
         'HOST': 'localhost',
-        'PASSWORD': 'cool_esercizi_2020_django',
+        'PASSWORD': '***************',
         'PORT': '',
     },
 }
